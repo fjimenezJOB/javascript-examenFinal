@@ -1,0 +1,16 @@
+body{
+    background: #000;
+    color: white;
+    font-family: Helvetica, arial, sans-serif;
+}
+
+#main_section-contenido{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100vw;
+}
+
+.nueva-zona{
+    display: flex;
+}
+
