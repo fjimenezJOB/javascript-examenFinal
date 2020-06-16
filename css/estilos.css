@@ -7,10 +7,8 @@ body{
 #main_section-contenido{
     display: flex;
     flex-direction: column;
-    flex-basis: 100vw;
 }
 
-.nueva-zona{
-    display: flex;
+#main_section-contenido div{
+    margin-bottom: 20px;
 }
-
